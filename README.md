@@ -9,5 +9,5 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=e4dbcf)
 
 ## My contacts
-![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=00648b)
-![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=yellow)
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=00648b)](https://t.me/ArturZaripov1990)
+[![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=yellow)](email:arturcaripov@yandex.ru)
