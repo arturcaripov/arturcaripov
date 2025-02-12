@@ -1,4 +1,4 @@
-[![Header](https://github.com/arturcaripov/arturcaripov/blob/main/assets/test.png)]
+![Header](https://github.com/arturcaripov/arturcaripov/blob/main/assets/test.png)
 
 About  me
 
