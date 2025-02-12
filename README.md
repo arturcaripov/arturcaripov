@@ -10,4 +10,3 @@
 
 ## My contacts
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=00648b)](https://t.me/ArturZaripov1990)
-[![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail&logoColor=yellow)](arturcaripov@yandex.ru)
