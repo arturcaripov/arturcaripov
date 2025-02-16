@@ -8,5 +8,10 @@
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=e4dbcf)
 
+
+## Completed courses
+![Testing](https://stepik.org/cert/2754015)
+
+
 ## My contacts
 [![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=00648b)](https://t.me/ArturZaripov1990)
