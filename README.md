@@ -10,7 +10,7 @@
 
 
 ## Completed courses
-![Testing](https://stepik.org/cert/2754015)
+[Software Testing](https://github.com/arturcaripov/arturcaripov/blob/main/assets/certificate.pdf)
 
 
 ## My contacts
